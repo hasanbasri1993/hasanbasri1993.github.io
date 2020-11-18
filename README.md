@@ -11,3 +11,6 @@ Berikut kriteria submission yang harus Anda penuhi:
 ) dengan menggunakan payload. 
 - Dapat ditambahkan ke homescreen.
 - Memiliki splash screen.
+- Kode pada Service Worker harus berbasis Workbox.
+- Diunggah ke Firebase Hosting atau Github Pages (sertakan link menuju Firebase Hosting dan Github Pages di file hosting.txt).
+
