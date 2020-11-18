@@ -1,4 +1,4 @@
-# Submission : Aplikasi PWA Kedua
+# Submission : Aplikasi PWA Ketiga
 
 ## Kriteria Submission
 Berikut kriteria submission yang harus Anda penuhi:
