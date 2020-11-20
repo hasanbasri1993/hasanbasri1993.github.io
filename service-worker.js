@@ -49,7 +49,7 @@ if (workbox) {
             }, {url: '/icon/apple-icon-72x72.png', revision: '1'}
         ],
         {
-            ignoreURLParametersMatching: [/.*/]
+            ignoreUrlParametersMatching: [/.*/]
         });
 
     workbox.routing.registerRoute(
